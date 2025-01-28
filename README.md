@@ -16,9 +16,9 @@ This project demonstrates an in-depth analysis of the Online Retail Dataset usin
 
 This notebook serves as a practical guide for applying unsupervised learning to real-world datasets, showcasing how clustering can be used to derive valuable business insights.
 ## Usage
-To run the analysis, open the Google Colab notebook:
-Download the zip file and upload it to your Google Colab notebook
-Run the Notebook
+-To run the analysis, open the Google Colab notebook:
+-Download the zip file and upload it to your Google Colab notebook
+-Run the Notebook
 
 
 
