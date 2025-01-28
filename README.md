@@ -26,8 +26,6 @@ This notebook serves as a practical guide for applying unsupervised learning to 
 - Visualized clusters using 2D and 3D plots.
 
 <div align="center">
-  <figure>
     <img src="./images/clusters.png" alt="Clustering Results" width="500">
     <figcaption>Figure 1: Clustering results using K-Means.</figcaption>
-  </figure>
 </div>
