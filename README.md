@@ -24,9 +24,9 @@ This notebook serves as a practical guide for applying unsupervised learning to 
 - Identified 5 distinct customer segments using K-Means clustering.
 - Detected outliers and noise in the dataset using DBSCAN.
 - Visualized clusters using 2D and 3D plots.
+- Here Three features are taken Recency, Frequncy and Monetary value and their respective clusters are plotted to see their cluster formation.
 
-#### **Below are the results of the 3d plot clustering of K-means and DBSCAN**
-
+#### <div align="center"> **Below are the results of the 3d plot clustering of K-means and DBSCAN** </div>
 
 <div align="center">
     <img src="./images/download (4).png" alt="Clustering Results" width="500">
