@@ -1,6 +1,6 @@
 ## **Online Retail Dataset Analysis with Unsupervised Learning**
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/Customer_segmentation_k_means_and_DBSCAN?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 This project demonstrates an in-depth analysis of the Online Retail Dataset using unsupervised learning techniques. The goal is to uncover meaningful insights and patterns within the dataset by applying various clustering algorithms, including K-Means, DBSCAN, and others.
