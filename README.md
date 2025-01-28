@@ -32,6 +32,15 @@ This project demonstrates an in-depth analysis of the Online Retail Dataset usin
 - **Model Performance:**
     - **Confusion Matrix:** The CatBoost algorithm achieved high accuracy and F1 scores, demonstrating the effectiveness of the clustering approach.
     - **Figure 3:** Confusion matrix displaying the classification performance across all clusters.
+ 
+#### **Usage**
+To replicate the analysis:
+
+  - Open the Google Colab notebook provided.
+
+  - Download the dataset and upload it to the Google Colab environment.
+
+  - Execute the notebook to perform the analysis and generate results.
 
 
 
