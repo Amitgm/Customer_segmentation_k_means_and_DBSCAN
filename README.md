@@ -39,7 +39,7 @@ This notebook serves as a practical guide for applying unsupervised learning to 
     <p><em>Figure 2: Clustering results using DBSCAN</em></p>
 </div>
 
-#### **Using supervised learning these clusters are given as labels to the retail dataset**
+#### <div align="center"> **Using supervised learning these clusters are given as labels to the retail dataset** </div>
 
 <div align="center">
     <img src="./images/download (6).png" alt="Confusion Matrix" width="500">
