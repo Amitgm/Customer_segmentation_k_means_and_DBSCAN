@@ -23,11 +23,17 @@ This project demonstrates an in-depth analysis of the Online Retail Dataset usin
 - The clustering results are visualized using 2D and 3D plots, showcasing the formation of clusters and the distribution of data points.
 
 #### **Results**
-- Identified 5 distinct customer segments using K-Means clustering.
-- Detected outliers and noise in the dataset using DBSCAN.
-- Visualized clusters using 2D and 3D plots.
-- Here Three features are taken Recency, Frequncy and Monetary value and their respective clusters are plotted to see their cluster formation.
-- Catboost Algorithm is used to classify the points based on the cluster labels. As seen the F1 score and Accuracy is very high from the confusion matrix
+- **Customer Segmentation:**
+    - **K-Means Clustering:** Identified 5 distinct customer segments, each representing unique purchasing behaviors and characteristics.
+    - **DBSCAN:** Detected outliers and noise, highlighting data points that deviate significantly from the main clusters.
+- **Visualizations:**
+    - **Figure 1:** 3D plot of clustering results using K-Means, illustrating the formation of customer segments.
+    - **Figure 2:** 3D plot of clustering results using DBSCAN, showcasing the identification of noise and outliers.
+- **Model Performance:**
+    - **Confusion Matrix:** The CatBoost algorithm achieved high accuracy and F1 scores, demonstrating the effectiveness of the clustering approach.
+    - **Figure 3:** Confusion matrix displaying the classification performance across all clusters.
+
+
 
 ### <div align="center"> **3d plot clustering of K-means and DBSCAN** </div>
 
