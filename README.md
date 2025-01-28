@@ -25,7 +25,7 @@ This notebook serves as a practical guide for applying unsupervised learning to 
 - Detected outliers and noise in the dataset using DBSCAN.
 - Visualized clusters using 2D and 3D plots.
 - Here Three features are taken Recency, Frequncy and Monetary value and their respective clusters are plotted to see their cluster formation.
-- Catboost Algorithm is used to classify the points based on the cluster labels. As seen the F1 score is 
+- Catboost Algorithm is used to classify the points based on the cluster labels. As seen the F1 score and Accuracy is very high from the confusion matrix
 
 #### <div align="center"> **Below are the results of the 3d plot clustering of K-means and DBSCAN** </div>
 
