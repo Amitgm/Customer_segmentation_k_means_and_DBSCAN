@@ -1,8 +1,9 @@
-# Customer_segmentation_k_means_and_DBSCAN
+### **Online Retail Dataset Analysis with Unsupervised Learning**
 
 This project demonstrates an in-depth analysis of the Online Retail Dataset using unsupervised learning techniques. The goal is to uncover meaningful insights and patterns within the dataset by applying various clustering algorithms, including K-Means, DBSCAN, and others.
 
-Key Features:
+#### **Key Features:**
+
 ** Exploratory Data Analysis (EDA): ** A comprehensive exploration of the dataset to understand its structure, trends, and anomalies.
 
 Clustering Techniques: Implementation of popular unsupervised learning algorithms to group similar data points and identify hidden patterns.
