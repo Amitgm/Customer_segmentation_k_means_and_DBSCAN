@@ -29,6 +29,5 @@ This notebook serves as a practical guide for applying unsupervised learning to 
 <div align="center">
   <figure>
     <img src="./images/download (4).png" alt="Clustering Results" width="500">
-    <figcaption>Figure 1: Clustering results using K-Means.</figcaption>
   </figure>
 </div>
