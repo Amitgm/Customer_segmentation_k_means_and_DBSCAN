@@ -24,7 +24,7 @@ This notebook serves as a practical guide for applying unsupervised learning to 
 - Here Three features are taken Recency, Frequncy and Monetary value and their respective clusters are plotted to see their cluster formation.
 - Catboost Algorithm is used to classify the points based on the cluster labels. As seen the F1 score and Accuracy is very high from the confusion matrix
 
-### <div align="center"> **Below are the results of the 3d plot clustering of K-means and DBSCAN** </div>
+### <div align="center"> **3d plot clustering of K-means and DBSCAN** </div>
 
 <div align="center">
     <img src="./images/download (4).png" alt="Clustering Results" width="500">
@@ -37,7 +37,7 @@ This notebook serves as a practical guide for applying unsupervised learning to 
     <p><em>Figure 2: Clustering results using DBSCAN</em></p>
 </div>
 
-### <div align="center"> **Using supervised learning these clusters are given as labels to the retail dataset** </div>
+### <div align="center"> **Confusion Matrix of clusters** </div>
 
 <div align="center">
     <img src="./images/download (6).png" alt="Confusion Matrix" width="500">
