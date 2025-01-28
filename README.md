@@ -12,14 +12,15 @@ This project demonstrates an in-depth analysis of the Online Retail Dataset usin
 - **Insights:** Actionable conclusions drawn from the clustering process to better understand customer behavior, product segmentation, and more.
 
 #### **Methodology**
-- **Data Preprocessing:** The dataset is cleaned, missing values are handled, and relevant features are extracted for analysis.
+- **Data Preprocessing:**
+- The dataset is cleaned, missing values are handled, and relevant features are extracted for analysis.
 - **Clustering Implementation:**
   - **K-Means:** Clustering: Applied to partition customers into 5 distinct segments based on their RFM characteristics.
   - **DBSCAN:** Utilized to detect outliers and noise, providing a more nuanced understanding of the data distribution.
-- **Model Evaluation:** 
-  
-- Download the zip file and upload it to your Google Colab notebook
-- Run the Notebook
+- **Model Evaluation:**
+- The CatBoost algorithm is employed to classify data points based on the cluster labels. The model achieves high accuracy and F1 scores, as evidenced by the confusion matrix.
+- **Visualization:**
+- The clustering results are visualized using 2D and 3D plots, showcasing the formation of clusters and the distribution of data points.
 
 #### **Results**
 - Identified 5 distinct customer segments using K-Means clustering.
