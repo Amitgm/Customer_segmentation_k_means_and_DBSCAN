@@ -31,3 +31,10 @@ This notebook serves as a practical guide for applying unsupervised learning to 
     <img src="./images/download (4).png" alt="Clustering Results" width="500">
   </figure>
 </div>
+
+
+<div align="center">
+  <figure>
+    <img src="./images/download (5).png" alt="Clustering Results" width="500">
+  </figure>
+</div>
