@@ -25,8 +25,9 @@ This notebook serves as a practical guide for applying unsupervised learning to 
 - Detected outliers and noise in the dataset using DBSCAN.
 - Visualized clusters using 2D and 3D plots.
 
-<p align="center">
-    <img src="./images/download (4).png" alt="Clustering Results" width="500" >
+<div align="center">
+  <figure>
+    <img src="./images/clusters.png" alt="Clustering Results" width="500">
     <figcaption>Figure 1: Clustering results using K-Means.</figcaption>
-</p>
-
+  </figure>
+</div>
