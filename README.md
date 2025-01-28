@@ -27,13 +27,12 @@ This notebook serves as a practical guide for applying unsupervised learning to 
 
 
 <div align="center">
-  <figure>
     <img src="./images/download (4).png" alt="Clustering Results" width="500">
-  </figure>
+  <p><em>Figure 1: Clustering results using K-Means.</em></p>
 </div>
 
 
 <div align="center">
     <img src="./images/download (5).png" alt="Clustering Results" width="500">
-    <p><em>Figure 1: Clustering results using K-Means.</em></p>
+    <p><em>Figure 2: Clustering results using DBSCAN</em></p>
 </div>
